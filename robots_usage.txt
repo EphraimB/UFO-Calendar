@@ -1,0 +1,23 @@
+I didn't know how to get started on making an algorithm for filling in the date cells so I used ChatGPT:
+https://chatgpt.com/share/6ab26a74-14b8-83e9-95cf-1356ee0f2197
+
+I used ChatGPT again to figure out how to access the static forMonth method in the DateCell class:
+https://chatgpt.com/share/6ab2b38d-a8f0-83e9-bee5-b8920d7cf8de
+
+I used Gemini to figure out how to get started on the calendar frame and spotted a mistake:
+https://share.gemini.google/OGpRIYZwqdhu
+
+I used ChatGPT to get help on how to access static stuff:
+https://chatgpt.com/share/6ab641b5-0f98-83ea-a59f-9d70395855f3
+
+I got help from Stack Overflow for making a vertical layout:
+https://stackoverflow.com/questions/13510641/add-controls-vertically-instead-of-horizontally-using-flow-layout
+
+I got help from ChatGPT for formatting the month:
+https://chatgpt.com/share/6ab646c5-799c-83e9-93a9-9da587f4902d
+
+I got help from Stack Overflow for formatting the month header to bold:
+https://stackoverflow.com/questions/22847148/java-text-formatting-bold
+
+I used ChatGPT to help me with the Flying Saucer:
+https://chatgpt.com/share/6ab6a573-6ddc-83ea-8b1f-0d45936d912d
